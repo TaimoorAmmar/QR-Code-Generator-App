@@ -5,6 +5,7 @@
 
 <h2> Technologies used </h2>
 HTML, CSS, JavaScript
+https://goqr.me/api/ API used for QR code.
   
 <h2> Screenshots </h2>
 
